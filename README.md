@@ -38,6 +38,10 @@ xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
 title('Frequency Response of FIR LPF using Bartlett Window');
 ```
+# CALCULATION :
+![Uploading image.png…]()
+![Uploading image.png…]()
+
 # OUTPUT: 
 <img width="718" height="585" alt="image" src="https://github.com/user-attachments/assets/5f1d59ea-fd3a-4809-bfad-23d024b2a77b" />
 
